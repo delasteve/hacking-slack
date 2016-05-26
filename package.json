@@ -1,0 +1,22 @@
+{
+  "name": "hacking-slack",
+  "version": "0.0.1",
+  "description": "A slackbot seed for The Forge Ann Arbor's May PluggedIn event",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/delasteve/hacking-slack.git"
+  },
+  "author": {
+    "name": "Stephen Cavaliere",
+    "email": "stephencavaliere@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delasteve/hacking-slack/issues"
+  },
+  "homepage": "https://github.com/delasteve/hacking-slack#readme",
+  "dependencies": {
+    "slackbotjs": "^0.1.0"
+  }
+}
